@@ -38,6 +38,7 @@
     border-radius: 4px;
   border: 2px solid rgba(255, 255, 255, 0.3);/* for lighter color of input field */
     background: rgba(255, 255, 255, 0.01);
+  color:white;
 }
 
 #email{
@@ -135,3 +136,4 @@ body {
         gap: 40px;
     }
 }
+
